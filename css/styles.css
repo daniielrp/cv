@@ -1,0 +1,41 @@
+html {
+  font-family: Roboto, monospace;
+}
+
+body {
+  background-color: #282846;
+  color: #eeeeee
+}
+
+hr {
+  border-style: none;
+  border-bottom-style: dotted;
+  border-width: 0.45em;
+  width: 3%;
+  border-color: #a4ebf3;
+  margin: 2% 40%
+
+}
+img {
+  height: 200px
+}
+P {
+  width: auto;
+  max-width: 60%;
+}
+
+a {
+  color: #fed049;
+}
+
+h1 {
+  color: #eff7e1;
+}
+
+h2 {
+  color: #a2d0c1;
+}
+
+h3 {
+  color: #a2d0c1;
+}
